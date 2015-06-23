@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Starter pack</title>
-</head>
-<body>
-    
-</body>
-</html>
+## Starter pack
+
+A basic starter pack for a build system based off Node.js and Gulp.
